@@ -1,0 +1,13 @@
+.login-container{
+ background: linear-gradient(to right, rgba(254, 175, 0, .9),rgba(254, 175, 0, .6)
+ )
+}
+
+.login-h1 ::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 35px;
+    background-color: #f8d442;
+    margin-right: 10px;
+  }
